@@ -6,10 +6,10 @@ https://github.com/hrushikeshnm5/Sports-Personality-classification/assets/147962
 # Tools and technologies
 Technologies used in this project,
 
-Python
-Numpy and OpenCV for data cleaning
-Matplotlib & Seaborn for data visualization
-Sklearn for model building
-Jupyter notebook, visual studio code and pycharm as IDE
-Python flask for http server
-HTML/CSS/Javascript for UI
+1. Python
+2. Numpy and OpenCV for data cleaning
+3. Matplotlib & Seaborn for data visualization
+4. Sklearn for model building
+5. Jupyter notebook, visual studio code and pycharm as IDE
+6. Python flask for http server
+7. HTML/CSS/Javascript for UI
